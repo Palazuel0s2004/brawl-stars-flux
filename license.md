@@ -258,9 +258,9 @@ not a permanent unban.
 
 ---
 
-**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-11-07 · **License:** Shared under the MIT License
+**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-11-08 · **License:** Shared under the MIT License
 
 *brawl-stars-flux*
 
 
-*Last updated: 2026-11-07*
+*Last updated: 2026-11-08*
